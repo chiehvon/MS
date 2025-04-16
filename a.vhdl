@@ -44,3 +44,5 @@ configuration CFG_MUX21_ARCHITECTURAL of MUX21_GENERIC is
 for ARCHITECTURAL
 end for;
 end CFG_MUX21_ARCHITECTURAL;
+
+--Wenjie is good
